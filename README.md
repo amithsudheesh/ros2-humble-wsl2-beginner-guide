@@ -339,13 +339,11 @@ Try answering in your own words. Answers are in `LEARNING_LOG.md` once you write
 ```
 .
 ├── README.md          <- this guide
-├── LEARNING_LOG.md    <- notes on what I learned and the problems I solved
-└── LICENSE            <- MIT license
+└── LEARNING_LOG.md    <- notes on what I learned and the problems I solved
+ 
 ```
 
 ## Acknowledgements
 - [ROS 2 Humble documentation](https://docs.ros.org/en/humble/)
 - [Microsoft WSL documentation](https://learn.microsoft.com/windows/wsl/)
 
-## License
-Released under the [MIT License](LICENSE).
